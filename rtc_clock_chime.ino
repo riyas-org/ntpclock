@@ -1,3 +1,5 @@
+
+// more details at http://blog.riyas.org/2014/05/simple-led-clock-thermomter-with-ds1302-lm35-for-beginners.html
 // DS1302 RTC
 // ----------
 //
